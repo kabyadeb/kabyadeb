@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kabyadeb&icon=7&color=3)]
+
+[![](https://visitcount.itsvg.in/api?id=kabyadeb&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!--  created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi 👋, I'm Kabya Deb
-<br>🌱 I’m currently learning php <br>💬 Ask me about linux kernel<br>⚡ Fun fact : love sleeping and the thrill of winning chess games, especially with blunder moves <br>
+<br>🌱 I’m currently learning Java <br>💬 Ask me about linux kernel<br>⚡ Fun fact : love sleeping and the thrill of winning chess games, especially with blunder moves <br>
 #### Love linux 
 
 
